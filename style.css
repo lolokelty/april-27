@@ -1,0 +1,24 @@
+body {
+    background-color: darkgrey;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 5px solid blue;
+}
+.blog-post {
+    background-color: darksalmon;
+    border: 2px salmon;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+}
+h1{
+    margin-top: 20px;
+}
+img{
+    float: left;
+    height: 150px;
+    float: top;
+    margin: 20px auto;
+}
